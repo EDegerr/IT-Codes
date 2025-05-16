@@ -4,38 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03279245-cd27-479e-8d43-9e785e9acf33" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day02DataTypes/C01Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day02DataTypes/C02TypeCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day02DataTypes/C03Wrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day02DataTypes/C04Scanner01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day02DataTypes/C05Scanner02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day03Scanner/C01Operators01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day03Scanner/C01ScannerClass01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day03Scanner/C02ScannerClass02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day03Scanner/C03ScannerClass03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day03Scanner/C04ScannerClass04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day03Scanner/C05ScannerClass05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day03Scanner/C06Concatenation01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day04Statements/C08SwitchStatements1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day04Statements/C09SwitchStatements2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day05TernaryOperations/C02NestedTernary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day05TernaryOperations/C03StringManipulations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day05TernaryOperations/c01TernaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day06StringManipulations/C01StringManipulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day06StringManipulations/C02StringManioulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day06StringManipulations/C03StringManipulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/a.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/e.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/m.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tests.java" afterDir="false" />
+    <list default="true" id="03279245-cd27-479e-8d43-9e785e9acf33" name="Changes" comment="Pushed sucsessfully">
+      <change afterPath="$PROJECT_DIR$/src/main/java/AICodeTesting/Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AICodeTesting/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AICodeTesting/Q1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +23,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "EDegerr"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="92c54bd6-1bfe-4bca-88f9-1686a1210834" />
+        <option name="url" value="https://github.com/EDegerr/IT-Codes.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="ProjectErrors" />
@@ -92,13 +78,13 @@
       <recent name="Day03ScannerConcatioation" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.testings">
-    <configuration name="C01StringManipulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day06StringManipulations.C01StringManipulation" />
+  <component name="RunManager" selected="Application.q3">
+    <configuration name="Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AICodeTesting.Q1" />
       <module name="TechProProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day06StringManipulations.*" />
+          <option name="PATTERN" value="AICodeTesting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02StringManioulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day06StringManipulations.C02StringManioulation" />
+    <configuration name="Q2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AICodeTesting.Q2" />
       <module name="TechProProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day06StringManipulations.*" />
+          <option name="PATTERN" value="AICodeTesting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,25 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03StringManipulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day06StringManipulations.C03StringManipulation" />
+    <configuration name="q3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AICodeTesting.q3" />
       <module name="TechProProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day06StringManipulations.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C03StringManipulations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day05TernaryOperations.C03StringManipulations" />
-      <module name="TechProProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day05TernaryOperations.*" />
+          <option name="PATTERN" value="AICodeTesting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,13 +131,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="tests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tests" />
+      <module name="TechProProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.q3" />
+        <item itemvalue="Application.Q2" />
+        <item itemvalue="Application.Q1" />
+        <item itemvalue="Application.tests" />
         <item itemvalue="Application.testings" />
-        <item itemvalue="Application.C03StringManipulation" />
-        <item itemvalue="Application.C02StringManioulation" />
-        <item itemvalue="Application.C01StringManipulation" />
-        <item itemvalue="Application.C03StringManipulations" />
       </list>
     </recent_temporary>
   </component>
@@ -177,6 +157,46 @@
       <option name="presentableId" value="Default" />
       <updated>1722169119194</updated>
     </task>
+    <task id="LOCAL-00001" summary="git commit -m &quot;first commit&quot;">
+      <option name="closed" value="true" />
+      <created>1747400844218</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747400844219</updated>
+    </task>
+    <task id="LOCAL-00002" summary="git commit -m &quot;first commit&quot;">
+      <option name="closed" value="true" />
+      <created>1747401431193</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747401431193</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Pushed sucsessfully">
+      <option name="closed" value="true" />
+      <created>1747402103594</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1747402103594</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git commit -m &quot;first commit&quot;" />
+    <MESSAGE value="Pushed sucsessfully" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pushed sucsessfully" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
